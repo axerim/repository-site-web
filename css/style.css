@@ -12,6 +12,7 @@ p, a {
     color: #0080FF;
     padding: 10px;
     margin: 10px;
+    
 }
 
 h1 {
@@ -31,17 +32,6 @@ img {
     height: 300px;
 }
 
-a{
-    display: flex;
-    justify-content: center;
-    width: 100px;
-    margin: 15;
-    padding: 15px;
-    text-decoration: none;
-    background-color: #0080FF;
-    border-radius: 15px;
-    color: #000;
-}
 div{
     display: flex;
     justify-content: center;
