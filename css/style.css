@@ -9,7 +9,7 @@ body {
 }
 
 p, a {
-    color: #fff;
+    color: #0080FF;;
 }
 
 h1 {
@@ -52,5 +52,13 @@ div{
 }
 figure{
     background-color: #0C32B4;
-
+    text-align: center;
+}
+article{
+    width: 1000px;
+    height: auto;
+    border: 1 solid;
+    border-radius: 10px;
+    background-color: navy;
+    color: white;
 }
