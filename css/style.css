@@ -1,0 +1,51 @@
+body {
+    padding: 0;
+    margin: 0;
+    height: 1000px;
+    background-image: url(images/ocean.jpg);
+    background-color: #01081A;
+    font-family: 'Roboto', sans-serif;
+    color: #0080FF;
+}
+
+p, a {
+    color: #fff;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+
+header {
+    display: flex;
+    grid-gap: 15px;
+    align-items: center;
+    padding: 15px;
+}
+
+img {
+    width: 200px;
+}
+
+a{
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    margin: 15;
+    padding: 15px;
+    text-decoration: none;
+    background-color: #0080FF;
+    border-radius: 15px;
+    color: #000;
+}
+div{
+    display: flex;
+    justify-content: center;
+    width: px;
+    margin: 30px;
+    padding: 15px;
+    background-color: #0080FF;
+    border-radius: 15px;
+    color: #000;
+}
