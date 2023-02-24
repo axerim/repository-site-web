@@ -9,7 +9,9 @@ body {
 }
 
 p, a {
-    color: #0080FF;;
+    color: #0080FF;
+    padding: 10px;
+    margin: 10px;
 }
 
 h1 {
@@ -55,7 +57,7 @@ figure{
     text-align: center;
 }
 article{
-    width: 1000px;
+    width: 700px;
     height: auto;
     border: 1 solid;
     border-radius: 10px;
